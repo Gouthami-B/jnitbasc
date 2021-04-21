@@ -6,6 +6,7 @@ public class FirstClas {
 		// TODO Auto-generated method stub
 System.out.println("hi am in branch master");
 //added a new line here
+		//making some changes
 	}
 
 }
